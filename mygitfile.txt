@@ -1,0 +1,3 @@
+char_name="my world"
+char_age=50
+print(char_name)
